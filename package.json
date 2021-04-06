@@ -1,0 +1,23 @@
+{
+  "name": "pedidos-lanches-rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paulo301/pedidos-lanches-rest.git"
+  },
+  "author": "Paulo Victor Lemos de Almeida",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Paulo301/pedidos-lanches-rest/issues"
+  },
+  "homepage": "https://github.com/Paulo301/pedidos-lanches-rest#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
