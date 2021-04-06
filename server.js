@@ -80,7 +80,7 @@ app.post("/pedido", (req, res) => {
 });
 
 app.get("/pedido", (req, res) => {
-  console.log("Consulta de lanches");
+  console.log("Consulta de pedidos");
 
   res.send(JSON.stringify(pedidos));
 });
